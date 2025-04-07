@@ -3,7 +3,7 @@ name: Test on Push to Main
 on:
   push:
     branches:
-      - main
+      - python-only
 
 jobs:
   test:
